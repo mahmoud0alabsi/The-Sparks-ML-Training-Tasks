@@ -1,6 +1,6 @@
 <h2>1st Task - Prediction using Supervised ML</h2>
 
-<p>The 1st task in the sparks foundation internship (data science) field is Prediction using Supervised ML, we have to train a model to predict student score depend on study time (in hours).
+<p>The 1st task in the sparks foundation internship in (data science) field is Prediction using Supervised ML, we have to train a model to predict student score depend on study time (in hours).
   </p>
   
 <p>
