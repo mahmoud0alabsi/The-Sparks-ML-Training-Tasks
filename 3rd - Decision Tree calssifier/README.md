@@ -13,6 +13,7 @@
       4- Features Engineering (Scalling)
       5- Train Decision Tree model
       6- Test model and get results
+      7- Plot Decision Tree Classifier
 
 
 <p>
